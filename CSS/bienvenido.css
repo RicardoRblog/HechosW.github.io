@@ -1,0 +1,19 @@
+.banner{
+    padding: 5px;
+    width: 100%;
+ }
+
+
+.banner img{
+    width: 100%;
+
+}
+
+.banner h1{
+    margin: auto;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px;
+
+}
